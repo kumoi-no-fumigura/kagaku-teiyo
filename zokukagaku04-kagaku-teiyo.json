@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kagaku-teiyo",
  "yomi": "かがくていよう",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌学書",
+  "era": "天保14年（1843）5月",
+  "author": "内山真弓（1786〜1852）（輯）",
+  "desc": "香川景樹の歌の教えを門人の内山真弓がまとめたもの。総論に続いて雅俗・偽飾・趣向・題・贈答・名所・古歌・枕詞などの項目を立て、桂園派の歌学の要点を示す。"
+ },
  "editions": [
   {
    "pid": "993382",
